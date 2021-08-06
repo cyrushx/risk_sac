@@ -1,4 +1,16 @@
 # Risk Conditioned Neural Motion Planning
+Code of paper [Risk Conditioned Neural Motion Planning](https://arxiv.org/abs/2108.01851)
+
+### Citation
+```
+@inproceedings{huang2021risksac,
+  title={Risk Conditioned Neural Motion Planning},
+  author={Huang, Xin and Feng, Meng and Jasour, Ashkan and Rosman, Guy and Williams, Brian C},
+  booktitle={2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
+  year={2021},
+  organization={IEEE}
+}
+```
 
 ## Installation
 
@@ -22,11 +34,8 @@ Modify in RLKit submodule.
 
 ### Pull submodule after cloning this repo
 ```
+git submodule add git@github.com:cyrushx/rlkit.git external/rlkit
 git submodule update --init --recursive
-```
-
-### Update submodule
-```
 git submodule update --remote --merge
 ```
 
