@@ -1,0 +1,125 @@
+replay_buffer/size                            20100
+trainer/num train calls                       20000
+trainer/QF1 Loss                                 17.3021
+trainer/QF2 Loss                                 17.424
+trainer/Policy Loss                              16.6944
+trainer/Q1 Predictions Mean                     -16.7754
+trainer/Q1 Predictions Std                       11.54
+trainer/Q1 Predictions Max                       -2.22023
+trainer/Q1 Predictions Min                      -60.5151
+trainer/Q2 Predictions Mean                     -16.7336
+trainer/Q2 Predictions Std                       11.4442
+trainer/Q2 Predictions Max                       -2.34691
+trainer/Q2 Predictions Min                      -61.9003
+trainer/Q Targets Mean                          -16.9189
+trainer/Q Targets Std                            12.4635
+trainer/Q Targets Max                            -0.0288748
+trainer/Q Targets Min                           -60.5721
+trainer/Log Pis Mean                              1.93345
+trainer/Log Pis Std                               1.91567
+trainer/Log Pis Max                               5.56236
+trainer/Log Pis Min                              -7.47761
+trainer/policy/mean Mean                          0.333683
+trainer/policy/mean Std                           0.774934
+trainer/policy/mean Max                           0.973844
+trainer/policy/mean Min                          -0.974976
+trainer/policy/normal/std Mean                    0.468631
+trainer/policy/normal/std Std                     0.0693909
+trainer/policy/normal/std Max                     0.710934
+trainer/policy/normal/std Min                     0.270958
+trainer/policy/normal/log_std Mean               -0.769556
+trainer/policy/normal/log_std Std                 0.155115
+trainer/policy/normal/log_std Max                -0.341176
+trainer/policy/normal/log_std Min                -1.30579
+trainer/Alpha                                     0.284442
+trainer/Alpha Loss                               -0.0836733
+exploration/num steps total                   20100
+exploration/num paths total                    1659
+exploration/path length Mean                     12.5
+exploration/path length Std                       6.57647
+exploration/path length Max                      25
+exploration/path length Min                       4
+exploration/Rewards Mean                         -2.28093
+exploration/Rewards Std                           1.4937
+exploration/Rewards Max                          -0.198259
+exploration/Rewards Min                          -6.23542
+exploration/Returns Mean                        -28.5116
+exploration/Returns Std                          14.1625
+exploration/Returns Max                         -13.1703
+exploration/Returns Min                         -57.9033
+exploration/Risks Mean                            0.624883
+exploration/Risks Std                             0.183051
+exploration/Risks Max                             0.906766
+exploration/Risks Min                             0.28522
+exploration/Collisions Mean                       0.086
+exploration/Collisions Std                        0.0294958
+exploration/Collisions Max                        0.15
+exploration/Collisions Min                        0.03
+exploration/Actions Mean                          0.300989
+exploration/Actions Std                           0.747524
+exploration/Actions Max                           0.994687
+exploration/Actions Min                          -0.998681
+exploration/Num Paths                             8
+exploration/Average Returns                     -28.5116
+exploration/env_infos/final/collision Mean        0.0875
+exploration/env_infos/final/collision Std         0.0248747
+exploration/env_infos/final/collision Max         0.11
+exploration/env_infos/final/collision Min         0.05
+exploration/env_infos/initial/collision Mean      0.09625
+exploration/env_infos/initial/collision Std       0.00992157
+exploration/env_infos/initial/collision Max       0.1
+exploration/env_infos/initial/collision Min       0.07
+exploration/env_infos/collision Mean              0.086
+exploration/env_infos/collision Std               0.0294958
+exploration/env_infos/collision Max               0.15
+exploration/env_infos/collision Min               0.03
+evaluation/num steps total                    18411
+evaluation/num paths total                     1602
+evaluation/path length Mean                      10.2222
+evaluation/path length Std                        3.52066
+evaluation/path length Max                       18
+evaluation/path length Min                        5
+evaluation/Rewards Mean                          -2.78998
+evaluation/Rewards Std                            1.82751
+evaluation/Rewards Max                           -0.197086
+evaluation/Rewards Min                           -6.67359
+evaluation/Returns Mean                         -28.5198
+evaluation/Returns Std                           13.9854
+evaluation/Returns Max                          -12.5102
+evaluation/Returns Min                          -61.0123
+evaluation/Risks Mean                             0.580706
+evaluation/Risks Std                              0.110635
+evaluation/Risks Max                              0.765864
+evaluation/Risks Min                              0.363711
+evaluation/Collisions Mean                        0.0845652
+evaluation/Collisions Std                         0.0227182
+evaluation/Collisions Max                         0.13
+evaluation/Collisions Min                         0.03
+evaluation/Actions Mean                           0.465388
+evaluation/Actions Std                            0.674315
+evaluation/Actions Max                            0.972176
+evaluation/Actions Min                           -0.96012
+evaluation/Num Paths                              9
+evaluation/Average Returns                      -28.5198
+evaluation/env_infos/final/collision Mean         0.0622222
+evaluation/env_infos/final/collision Std          0.00628539
+evaluation/env_infos/final/collision Max          0.08
+evaluation/env_infos/final/collision Min          0.06
+evaluation/env_infos/initial/collision Mean       0.0933333
+evaluation/env_infos/initial/collision Std        0.00942809
+evaluation/env_infos/initial/collision Max        0.1
+evaluation/env_infos/initial/collision Min        0.08
+evaluation/env_infos/collision Mean               0.0845652
+evaluation/env_infos/collision Std                0.0227182
+evaluation/env_infos/collision Max                0.13
+evaluation/env_infos/collision Min                0.03
+time/data storing (s)                             0.000443627
+time/evaluation sampling (s)                      0.0981971
+time/exploration sampling (s)                     0.103277
+time/logging (s)                                  0.00423088
+time/sac training (s)                             0.986229
+time/saving (s)                                   0.116327
+time/training (s)                                 5.441e-05
+time/epoch (s)                                    1.30876
+time/total (s)                                  272.433
+Epoch                                           199
